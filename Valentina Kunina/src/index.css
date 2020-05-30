@@ -1,7 +1,0 @@
-.title {
-    color: red;
-}
-
-html, body, :global(#hello-example) {
-    height: 100%;
-}
